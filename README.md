@@ -16,7 +16,7 @@ Raspberry-ZenAlert-Healt-Monitor
 
 Start with installing curl:
 	
-	* sudo apt-get install curl (in debian/ubuntu)
+	* sudo apt-get install curl
 
 
 * Save healtmonitor.sh on your SD Card
